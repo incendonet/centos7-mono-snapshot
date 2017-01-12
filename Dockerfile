@@ -1,6 +1,6 @@
 # Base OS
-FROM centos:centos7
-MAINTAINER bryanayers
+FROM centos:7
+MAINTAINER info@incendonet.com
 
 # Env setup
 ENV HOME /root
